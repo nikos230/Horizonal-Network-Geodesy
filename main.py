@@ -837,7 +837,7 @@ def print_u_to_pdf(u_, all_data_name):
 
 if __name__ == '__main__':
 
-    data_file_name = "C:\\Users\\k280\\OneDrive\\Files\\Projectakia\\Geodesy_Projects\\Dedomena\\Orizontio_Diktio\\data_gon_dist_Ask.txt"
+    data_file_name = "demo_data.txt"
 
     # Apothikeusi se arxeio pdf
     pdf = FPDF()
