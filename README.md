@@ -4,8 +4,7 @@ A script to solve horizontal networks in geodesy
 ---
 
 # Usage
-This script can be used for solving horional networks. It is not recomented to be used for profesional use as the program has many bugs and not working for all input data but insted to be used for reseatch purposes
-
+This script can be utilized for solving horizontal networks. However, it is not recommended for professional use due to bugs and its inability to work with all input data. Instead, it is better suited for research purposes.
 ---
 
 # Input Data
