@@ -43,6 +43,8 @@ Line 884 and 885 tweek Sigma erros
 
 ---
 
+# Output Examples
+
 ![alt text](https://github.com/nikos230/Horizonal-Network-Geodesy/blob/main/sxedio.jpg)
 ![alt text](https://github.com/nikos230/Horizonal-Network-Geodesy/blob/main/hor_net_1.jpg)
 ![alt text](https://github.com/nikos230/Horizonal-Network-Geodesy/blob/main/hor_net_2.jpg)
