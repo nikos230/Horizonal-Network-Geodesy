@@ -1,5 +1,5 @@
 # Horizontal Network Geodesy
-A script to solve horizontal networks in geodesy
+A script to solve horizontal networks in geodesy. Νecessary librarys are NumPy, FPDF and MatPlotLib
 
 ---
 
